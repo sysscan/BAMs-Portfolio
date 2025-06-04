@@ -388,6 +388,17 @@ section {
     font-size: 2rem;
     color: white;
 }
+/* Contact Section */
+#contact {
+    background: var(--bg-secondary);
+    text-align: center;
+}
+
+.contact-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
 
 /* Skills Section */
 #skills {
