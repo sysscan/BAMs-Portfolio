@@ -1,5 +1,3 @@
-// Modern Portfolio JavaScript with Enhanced Interactions
-
 document.addEventListener('DOMContentLoaded', () => {
     // Smooth scrolling for navigation links
     const navLinks = document.querySelectorAll('nav ul li a, .btn-primary');
